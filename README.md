@@ -1,8 +1,6 @@
-This guide is based on the NYTimes Objective-C style.
+This guide is based on the NYTimes Objective-C style. Thanks to the creators of NYTimes style guide.
 
 # Objective-C Style Guide
-
-Thanks to all of [our contributors](https://github.com/NYTimes/objective-c-style-guide/contributors).
 
 ## Introduction
 
